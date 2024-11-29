@@ -1,10 +1,10 @@
 // Array of question links
 const questionLinks = [
-  "https://robocontest.uz/tasks",
-  "https://robocontest.uz/tasks",
-  "https://robocontest.uz/tasks",
-  "https://robocontest.uz/tasks",
-  "https://robocontest.uz/tasks",
+  "https://robocontest.uz/tasks/0001",
+  "https://robocontest.uz/tasks/1159",
+  "https://robocontest.uz/tasks/0232",
+  "https://robocontest.uz/tasks/1147",
+  "https://robocontest.uz/tasks/0709",
   // Add more links as needed
 ];
 
